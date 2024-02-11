@@ -10,7 +10,7 @@ public class App {
         System.out.println(july);
         System.out.println(sam);
 
-        john.greeting();
+        System.out.println(john.greeting());
     }
     
 }
